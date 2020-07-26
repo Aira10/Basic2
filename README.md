@@ -1,2 +1,3 @@
 # Basic2
-cont to Basic1 for command line purpose
+continuation to Basic1 for command line purpose
+this was opened in atom first
